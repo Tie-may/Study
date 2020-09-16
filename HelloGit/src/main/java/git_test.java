@@ -6,5 +6,6 @@ public class git_test {
         System.out.println("master_3");
         System.out.println("master_4");
         System.out.println("master_5");
+        System.out.println("master_6");
     }
 }
